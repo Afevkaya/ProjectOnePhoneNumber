@@ -1,0 +1,15 @@
+C:\MyWork\ProjectOne\bin\Debug\net6.0\ProjectOne.exe
+C:\MyWork\ProjectOne\bin\Debug\net6.0\ProjectOne.deps.json
+C:\MyWork\ProjectOne\bin\Debug\net6.0\ProjectOne.runtimeconfig.json
+C:\MyWork\ProjectOne\bin\Debug\net6.0\ProjectOne.dll
+C:\MyWork\ProjectOne\bin\Debug\net6.0\ref\ProjectOne.dll
+C:\MyWork\ProjectOne\bin\Debug\net6.0\ProjectOne.pdb
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.csproj.AssemblyReference.cache
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.AssemblyInfoInputs.cache
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.AssemblyInfo.cs
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.csproj.CoreCompileInputs.cache
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.dll
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ref\ProjectOne.dll
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.pdb
+C:\MyWork\ProjectOne\obj\Debug\net6.0\ProjectOne.genruntimeconfig.cache
